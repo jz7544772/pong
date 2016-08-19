@@ -1,0 +1,9 @@
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\bin\Debug\WinformPong.exe
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\bin\Debug\WinformPong.pdb
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\obj\Debug\WinformPong.csprojResolveAssemblyReference.cache
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\obj\Debug\WinformPong.MainForm.resources
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\obj\Debug\WinformPong.Properties.Resources.resources
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\obj\Debug\WinformPong.csproj.GenerateResource.Cache
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\obj\Debug\WinformPong.exe
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\obj\Debug\WinformPong.pdb
+C:\Users\JiaZheng\Desktop\PathToSiliconValley\Games\WinformPong\WinformPong\bin\Debug\WinformPong.exe.config
