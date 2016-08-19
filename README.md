@@ -1,6 +1,6 @@
 # pong
 
-## Pong game in C#
+## Pong game in (C#)
 
 
 ## Instuction
