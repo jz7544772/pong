@@ -1,3 +1,3 @@
 # pong
 
-## Pong in C#
+## Pong game in C#
