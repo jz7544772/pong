@@ -3,6 +3,6 @@
 ## Pong game in (C#)
 
 
-## Instuction
+## Instruction
 
 Entery key to start/pause
